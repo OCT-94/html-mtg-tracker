@@ -1,2 +1,4 @@
-html{background: black}
-body{color: whitesmoke}
+html{background: rgb(34, 34, 34)}
+body{color: rgba(245, 245, 245, 0.777)}
+.rounded-image{border-radius: 14px;}
+.centered-text{text-align: center;}
