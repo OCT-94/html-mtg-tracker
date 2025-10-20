@@ -1,4 +1,29 @@
-html{background: rgb(34, 34, 34)}
-body{color: rgba(245, 245, 245, 0.777)}
-.rounded-image{border-radius: 14px;}
-.centered-text{text-align: center;}
+html {
+    background: rgb(34, 34, 34);
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    color: rgba(245, 245, 245, 0.777);
+  }
+.rounded-image {
+    border-radius: 14px;
+}
+.centered-text {
+    text-align: center;
+}
+.info {
+    width: 50%;
+    height: auto;
+}
+#grey {
+    background-color: rgb(128, 128, 128);
+}
+
+.center {
+    margin: 0%;
+    margin-left: 25%
+}
+
