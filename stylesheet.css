@@ -28,7 +28,7 @@ body {
 }
 
 .grey-background {
-    background-color: grey;
+    background-color: rgb(66, 66, 66);
 }
 
 img {
@@ -36,4 +36,8 @@ img {
     height: auto;
     object-fit: contain;
 
+}
+
+.first-list {
+    list-style-type: upper-roman;
 }
