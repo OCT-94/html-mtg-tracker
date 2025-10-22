@@ -15,7 +15,7 @@ body {
     text-align: center;
 }
 .info {
-    width: 50%;
+    width: 95%;
     height: auto;
 }
 #grey {
@@ -27,3 +27,6 @@ body {
     margin-left: 25%
 }
 
+.grey-background {
+    background-color: grey;
+}
