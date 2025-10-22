@@ -30,3 +30,10 @@ body {
 .grey-background {
     background-color: grey;
 }
+
+img {
+    width: 25%;
+    height: auto;
+    object-fit: contain;
+
+}
