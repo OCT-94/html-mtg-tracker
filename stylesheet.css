@@ -31,7 +31,12 @@ body {
     background-color: rgb(66, 66, 66);
 }
 
-
 .first-list {
     list-style-type: upper-roman;
+}
+
+.homepageimg {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
 }
