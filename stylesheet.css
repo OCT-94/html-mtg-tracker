@@ -31,12 +31,6 @@ body {
     background-color: rgb(66, 66, 66);
 }
 
-img {
-    width: 25%;
-    height: auto;
-    object-fit: contain;
-
-}
 
 .first-list {
     list-style-type: upper-roman;
