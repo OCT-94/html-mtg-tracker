@@ -20,6 +20,7 @@ body {
 }
 #grey {
     background-color: rgb(128, 128, 128);
+    
 }
 
 .center {
@@ -29,6 +30,8 @@ body {
 
 .grey-background {
     background-color: rgb(66, 66, 66);
+    border-radius: 10px;
+    padding: 0% 10px;
 }
 
 .title-bg {
