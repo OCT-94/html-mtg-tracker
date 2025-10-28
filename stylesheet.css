@@ -31,11 +31,12 @@ body {
     background-color: rgb(66, 66, 66);
 }
 
-.grey-background2 {
+.title-bg {
     background-color: rgb(66, 66, 66);
     width:405px;
     margin: 0 auto;
-    margin-top: 25px
+    margin-top: 25px;
+    border-radius: 10px;
 }
 
 .first-list {
