@@ -57,3 +57,11 @@ body {
     object-fit: contain;
     border-radius: 10px;
 }
+
+#bottom {
+    margin-bottom: 25px;
+}
+
+#back {
+    width: 80px;
+}
